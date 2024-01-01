@@ -15,3 +15,8 @@ ADD command - Add new or changed files in your working directory to the git stag
 COMMIT - is the record of change <br>Its syntax is git commit -m "relevant-message" <br>
 PUSH command - to upload local repo content (basically your folders stored locally on your PC ) to remote repo (in this case GitHub).
 <br>Its syntax is "git push origin main"
+<br>
+In order to come out of the folder put 'cd ..' in the terminal
+<br>
+In order to make a new folder write 'mkdir foldername'
+<br>

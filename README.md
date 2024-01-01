@@ -11,7 +11,9 @@ We get 4 types of status -><br>
 2. Modified - Changed files <br>
 3. Staged - File is ready to be commited. Means that you have ADDED the modified/untracked file to the repository but not COMMIT yet. After commit it becomes unmodified <br>
 4. Unmodified - Unchanged <br>
-<br><br>
+<br>
 ADD command - Add new or changed files in your working directory to the git staging area.<br>
-<br><br>
+<br>
 COMMIT - is the record of change 
+<br>
+PUSH command - to upload local repo content (basically your folders stored locally on your PC ) to remote repo (in this case GitHub).
